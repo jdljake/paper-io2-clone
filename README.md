@@ -1,4 +1,4 @@
-# paperio-clone: Gameplay Proof of Concept 
+# paper-io2-clone: Gameplay Proof of Concept 
 I have recently been enjoying the browser game [Paper-io 2](https://paper-io.com/). 
 While playing the game, I have wondered how I could go about recreating the territory-claiming game mechanic it is built around. This project was built in Unity, and is relatively unpolished- there's a bit of deprecated code laying around.
 
